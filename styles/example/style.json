@@ -1,6 +1,6 @@
 {
     "version": 8,
-    "name": "Example",
+    "name": "example",
     "metadata": {
         "mapbox:origin": "basic-template-v1",
         "mapbox:autocomposite": true,

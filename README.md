@@ -2,5 +2,5 @@
 A Collection of Styles for Mapbox.
 
 
-# Example
+# [example](./styles/example)
 ![example](./thumbnails/example.png)
