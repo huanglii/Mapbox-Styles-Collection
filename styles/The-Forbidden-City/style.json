@@ -25,8 +25,8 @@
             "format": "png"
         }
     },
-    "center": [2.3176, 48.8665],
-    "zoom": 4.084654241259187,
+    "center": [114.02251652028303, 22.528600082587715],
+    "zoom": 16.619394012936464,
     "bearing": 0,
     "pitch": 0,
     "sources": {
@@ -226,8 +226,6 @@
             "filter": ["==", "underground", "false"],
             "layout": {},
             "paint": {
-                "line-dasharray": [8, 10],
-                "line-color": "hsl(41, 32%, 63%)",
                 "line-width": [
                     "interpolate",
                     ["cubic-bezier", 0.7, 0.4, 0.1, 0.9],
@@ -236,7 +234,8 @@
                     0,
                     22,
                     1.8
-                ]
+                ],
+                "line-color": "hsl(41, 32%, 63%)"
             }
         },
         {
@@ -1371,8 +1370,8 @@
     ],
     "created": "2019-01-01T06:19:18.263Z",
     "id": "cjqdd4dpg66w12rqyq6joebs9",
-    "modified": "2019-01-02T13:47:09.976Z",
+    "modified": "2019-01-14T14:07:09.822Z",
     "owner": "huanglii",
-    "visibility": "private",
+    "visibility": "public",
     "draft": false
 }
