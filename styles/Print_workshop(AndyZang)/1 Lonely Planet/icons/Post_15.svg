@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>Post</title>
+  <g>
+    <polyline points="15 14.75 15 15 14.75 15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="14.25" y1="15" x2="0.5" y2="15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0.25 15 0 15 0 14.75" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line y1="14.25" y2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0 0.25 0 0 0.25 0" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="0.75" x2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="14.75 0 15 0 15 0.25" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="15" y1="0.75" x2="15" y2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+  </g>
+  <circle cx="7.5" cy="7.5" r="7.5" fill="#8e8e8e"/>
+  <g>
+    <rect x="2" y="3.9643" width="11" height="7.0714" rx="0.6451" ry="0.6451" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="1.999 5 7.499 7.3 12.999 5" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>

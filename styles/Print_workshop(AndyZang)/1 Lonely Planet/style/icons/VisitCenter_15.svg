@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>VisitCenter</title>
+  <g>
+    <polyline points="15 14.75 15 15 14.75 15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="14.25" y1="15" x2="0.5" y2="15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0.25 15 0 15 0 14.75" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line y1="14.25" y2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0 0.25 0 0 0.25 0" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="0.75" x2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="14.75 0 15 0 15 0.25" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="15" y1="0.75" x2="15" y2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+  </g>
+  <circle cx="7.5" cy="7.5" r="7.5" fill="#8e8e8e"/>
+  <path d="M8.6621,5.8452V11.417a1.6214,1.6214,0,0,0,.18.9512.99.99,0,0,0,.6992.2373v.2705H5.6143v-.2705a.9663.9663,0,0,0,.7153-.27,1.63,1.63,0,0,0,.1558-.918V7.3115A1.63,1.63,0,0,0,6.3066,6.36a.98.98,0,0,0-.6923-.2369V5.8452ZM7.5737,2.439a1.1715,1.1715,0,0,1,.855.3423,1.11,1.11,0,0,1,.3506.8232,1.0908,1.0908,0,0,1-.3545.8193,1.1855,1.1855,0,0,1-.8511.3384,1.1732,1.1732,0,0,1-.8471-.3384,1.0971,1.0971,0,0,1-.35-.8193,1.1093,1.1093,0,0,1,.35-.8232A1.1646,1.1646,0,0,1,7.5737,2.439Z" fill="#fff"/>
+</svg>
