@@ -1,0 +1,176 @@
+{
+    "version": 8,
+    "name": "Print Workshop-Poster Blue",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:type": "template",
+        "mapbox:sdk-support": {
+            "js": "0.50.0",
+            "android": "6.7.0",
+            "ios": "4.6.0"
+        }
+    },
+    "center": [-73.9766724107331, 40.760706334445956],
+    "zoom": 13.7360359635414,
+    "bearing": 0,
+    "pitch": 0,
+    "sources": {
+        "composite": {
+            "url": "mapbox://mapbox.mapbox-streets-v8",
+            "type": "vector"
+        },
+        "mapbox://mapbox.terrain-rgb": {
+            "url": "mapbox://mapbox.terrain-rgb",
+            "type": "raster-dem",
+            "tileSize": 256
+        }
+    },
+    "sprite": "mapbox://sprites/andyzang-salz/cjr4zanuw39ph2spk1htfyyzc",
+    "glyphs": "mapbox://fonts/andyzang-salz/{fontstack}/{range}.pbf",
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "paint": {"background-color": "hsl(203, 60%, 94%)"}
+        },
+        {
+            "id": "water",
+            "type": "fill",
+            "source": "composite",
+            "source-layer": "water",
+            "layout": {},
+            "paint": {"fill-color": "hsl(206, 82%, 69%)"}
+        },
+        {
+            "id": "mapbox-terrain-rgb",
+            "type": "hillshade",
+            "source": "mapbox://mapbox.terrain-rgb",
+            "layout": {"visibility": "none"},
+            "paint": {}
+        },
+        {
+            "id": "road",
+            "type": "line",
+            "source": "composite",
+            "source-layer": "road",
+            "layout": {},
+            "paint": {
+                "line-color": [
+                    "case",
+                    [
+                        "match",
+                        ["get", "class"],
+                        [
+                            "golf",
+                            "path",
+                            "traffic_signals",
+                            "tertiary",
+                            "service",
+                            "pedestrian"
+                        ],
+                        true,
+                        false
+                    ],
+                    "hsla(0, 0%, 100%, 0)",
+                    [
+                        "match",
+                        ["get", "type"],
+                        [
+                            "traffic_signals",
+                            "trail",
+                            "steps",
+                            "mini_roundabout",
+                            "tertiary_link",
+                            "construction:road",
+                            "tram",
+                            "subway",
+                            "rail"
+                        ],
+                        true,
+                        false
+                    ],
+                    "hsla(0, 0%, 100%, 0)",
+                    "hsl(0, 0%, 100%)"
+                ],
+                "line-width": [
+                    "interpolate",
+                    ["exponential", 1.5],
+                    ["zoom"],
+                    5,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        0.5,
+                        "tertiary",
+                        0.01,
+                        0
+                    ],
+                    12,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        3,
+                        ["secondary", "tertiary"],
+                        2,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "street",
+                            "street_limited"
+                        ],
+                        0.5,
+                        0
+                    ],
+                    18,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        30,
+                        ["secondary", "tertiary"],
+                        24,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "street",
+                            "street_limited"
+                        ],
+                        12,
+                        10
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "road -label",
+            "type": "symbol",
+            "source": "composite",
+            "source-layer": "road",
+            "layout": {
+                "text-field": ["to-string", ["get", "name"]],
+                "symbol-placement": "line",
+                "text-max-angle": 30,
+                "symbol-avoid-edges": true,
+                "symbol-spacing": 200,
+                "visibility": "none"
+            },
+            "paint": {}
+        },
+        {
+            "id": "building",
+            "type": "fill",
+            "source": "composite",
+            "source-layer": "building",
+            "layout": {"visibility": "none"},
+            "paint": {}
+        }
+    ],
+    "created": "2019-01-20T14:09:50.194Z",
+    "id": "cjr4zanuw39ph2spk1htfyyzc",
+    "modified": "2019-01-20T14:43:10.540Z",
+    "owner": "andyzang-salz",
+    "visibility": "private",
+    "draft": false
+}

@@ -26,7 +26,7 @@ Map style suitable for print design
 Imitating the map style in the travel brochure "Lonely Planet"  
 模仿旅行手册《孤独星球》中的地图样式
 
-Designed based on zoom level 14, does not guarantee performance at other zoom level  
+Designed based on zoom level 14, not guarantee performance at other zoom level  
 基于缩放比例14设计，不保证其他尺度下的表现效果
 
 All POI points are randomly selected, please use other reliable data sets  
@@ -34,3 +34,15 @@ All POI points are randomly selected, please use other reliable data sets
 
 ![Lonely Planet](./thumbnails/Print_workshop(AndyZang)/1_Print_workshop-Lonely_Planet.png)
 
+## [2 Poster Blue](https://api.mapbox.com/styles/v1/andyzang-salz/cjr4zanuw39ph2spk1htfyyzc.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5keXphbmctc2FseiIsImEiOiJjamNmMTFnY3YweTdnMzNyd3N0dmJvN3BmIn0.IjY9YwmRWtL8axbT4AzQRg#12.9/40.75747/-73.98029)
+Suitable for backgrounds as prints such as posters  
+适用于作为海报等印刷品的背景  
+
+Blue tone road and water  
+蓝色调的道路及水系  
+
+![Poster Blue](./thumbnails/Print_workshop(AndyZang)/2_Print_workshop-Poster_Blue.png)
+
+Download as:  
+从此下载背景:  
+[background](https://api.mapbox.com/styles/v1/andyzang-salz/cjr4zanuw39ph2spk1htfyyzc/static/-73.9794,40.7551,13.25,0,0/595x842?access_token=pk.eyJ1IjoiYW5keXphbmctc2FseiIsImEiOiJjamNmMTFnY3YweTdnMzNyd3N0dmJvN3BmIn0.IjY9YwmRWtL8axbT4AzQRg)
