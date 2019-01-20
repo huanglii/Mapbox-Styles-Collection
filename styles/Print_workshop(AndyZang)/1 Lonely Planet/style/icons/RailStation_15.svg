@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>RailStaion</title>
+  <g>
+    <polyline points="15 14.75 15 15 14.75 15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="14.25" y1="15" x2="0.5" y2="15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0.25 15 0 15 0 14.75" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line y1="14.25" y2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0 0.25 0 0 0.25 0" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="0.75" x2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="14.75 0 15 0 15 0.25" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="15" y1="0.75" x2="15" y2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+  </g>
+  <circle cx="7.5" cy="7.5" r="7.5" fill="#8e8e8e"/>
+  <path d="M3.675,1.55a.85.85,0,0,0-.85.85V9.2a.85.85,0,0,0,.85.85h7.65a.85.85,0,0,0,.85-.85V2.4a.85.85,0,0,0-.85-.85Zm2.3375.425H8.9958a.2125.2125,0,1,1,0,.425H6.0125a.2125.2125,0,0,1,0-.425ZM4.1,3.25H7.075v3.4H4.1a.425.425,0,0,1-.425-.425V3.675A.425.425,0,0,1,4.1,3.25Zm3.825,0H10.9a.425.425,0,0,1,.425.425v2.55a.425.425,0,0,1-.425.425H7.925ZM5.375,7.5a.85.85,0,1,1-.85.85A.85.85,0,0,1,5.375,7.5Zm4.25,0a.85.85,0,1,1-.85.85A.85.85,0,0,1,9.625,7.5Zm.3785,3.395a.4264.4264,0,0,0-.3619.5744l.1444.2806H5.214l.1095-.2291a.4251.4251,0,0,0-.7736-.3486l-.85,1.7a.4136.4136,0,0,0-.0249.1527.425.425,0,0,0,.425.425.4159.4159,0,0,0,.3652-.2208V13.186h.06l.264-.586h5.422l.264.586v.0432a.4161.4161,0,0,0,.3652.2208.425.425,0,0,0,.425-.425.4176.4176,0,0,0,0-.2042l-.85-1.7A.4248.4248,0,0,0,10.0035,10.895Z" fill="#fff"/>
+</svg>

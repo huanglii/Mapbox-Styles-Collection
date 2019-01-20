@@ -1,0 +1,155 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ChinaTown Tour",
+        "Type": "VisitCenter"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.40449,
+          37.792684
+        ],
+        "type": "Point"
+      },
+      "id": "2308476f46f9b3648b4198d3087be537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Salesforce Tower",
+        "Type": "shopping"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.396967,
+          37.789763
+        ],
+        "type": "Point"
+      },
+      "id": "2e722fbbf035babce45edcc640b09d5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "USPS",
+        "Type": "Post"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.406766,
+          37.783987
+        ],
+        "type": "Point"
+      },
+      "id": "37cbd36e566df2ea78d324c100367128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Powell Street Staion",
+        "Type": "RailStation"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.407219,
+          37.784687
+        ],
+        "type": "Point"
+      },
+      "id": "417c6fd118ed33b535766d04b7892b32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Francisco Museum of Modern Art",
+        "Type": "ViewPoint"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.40092,
+          37.785825
+        ],
+        "type": "Point"
+      },
+      "id": "507e0cbd0f26bf20e27038087bcd88c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "American Conservatory Theater",
+        "Type": "Fun"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.410228,
+          37.786875
+        ],
+        "type": "Point"
+      },
+      "id": "69fcfdecb07650b091ff5f2953c031bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "In & Out",
+        "Type": "Food"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.397897,
+          37.786744
+        ],
+        "type": "Point"
+      },
+      "id": "8b458280f0b471edb9e23f7f6627ee1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "AT&T Park",
+        "Type": "ViewPoint"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.390355,
+          37.778584
+        ],
+        "type": "Point"
+      },
+      "id": "8cf36d592a26ba488fdd37d6a7628a96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cola",
+        "Type": "drink"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.403976,
+          37.784434
+        ],
+        "type": "Point"
+      },
+      "id": "d438bbccd5b58eae80b21de3b7859ca7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Embarcadero Staion",
+        "Type": "RailStation"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.396808,
+          37.792842
+        ],
+        "type": "Point"
+      },
+      "id": "ef853820a1ba3b62fb339ad288a1a674"
+    }
+  ],
+  "type": "FeatureCollection"
+}

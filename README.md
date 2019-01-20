@@ -17,3 +17,19 @@ A Collection of Styles for Mapbox.
 
 ![The Forbidden City](./thumbnails/The-Forbidden-City(huangli).jpg)
 
+
+# Print Workshop(AndyZang)
+Map style suitable for print design
+适合用于印刷品设计的地图样式
+
+## [Lonely Planet]()
+Imitating the map style in the travel brochure "Lonely Planet"  
+模仿旅行手册《孤独星球》中的地图样式
+
+Designed based on zoom level 14, does not guarantee performance at other zoom level  
+基于缩放比例14设计，不保证其他尺度下的表现效果
+
+All POI points are randomly selected, please use other reliable data sets  
+所有POI点均为随机选取，请使用其他可靠数据集
+
+![Lonely Planet](./thumbnails/Print_workshop(AndyZang)/1_Print_workshop-Lonely_Planet.png)

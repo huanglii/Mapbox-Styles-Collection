@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>drink</title>
+  <g>
+    <polyline points="15 14.75 15 15 14.75 15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="14.25" y1="15" x2="0.5" y2="15" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0.25 15 0 15 0 14.75" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line y1="14.25" y2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0 0.25 0 0 0.25 0" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="0.75" x2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="14.75 0 15 0 15 0.25" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="15" y1="0.75" x2="15" y2="14.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+  </g>
+  <circle cx="7.5" cy="7.5" r="7.5" fill="#03a1ea"/>
+  <path d="M12.3529,2.6471S10.9478,6.9085,9.1176,7.8235c-1.2941.6471-1.2941,1.2941-1.2941,1.2941v2.5883L13,12.3529H2l5.1765-.647V9.1176s0-.647-1.2941-1.2941c-1.83-.915-3.2353-5.1764-3.2353-5.1764h9.7058" fill="#fff"/>
+</svg>

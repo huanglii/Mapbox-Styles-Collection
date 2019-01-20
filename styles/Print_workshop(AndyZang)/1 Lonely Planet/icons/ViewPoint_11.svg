@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>ViewPoint</title>
+  <g>
+    <polyline points="11 0.25 11 0 10.75 0" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="10.25" x2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0.25 0 0 0 0 0.25" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line y1="0.75" y2="10.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="0 10.75 0 11 0.25 11" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="0.75" y1="11" x2="10.5" y2="11" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+    <polyline points="10.75 11 11 11 11 10.75" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05"/>
+    <line x1="11" y1="10.25" x2="11" y2="0.5" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="0.05" stroke-dasharray="0.5 0.5"/>
+  </g>
+  <circle cx="5.5" cy="5.5" r="5.5"/>
+  <g>
+    <path d="M3.3,5.5A2.2,2.2,0,0,1,5.5,3.3,7.6786,7.6786,0,0,0,.088,5.5072,7.7285,7.7285,0,0,0,5.5,7.7,2.2,2.2,0,0,1,3.3,5.5Z" fill="#fff"/>
+    <path d="M5.5,3.3a2.2,2.2,0,0,1,0,4.4,7.7285,7.7285,0,0,0,5.412-2.1928A7.6786,7.6786,0,0,0,5.5,3.3Z" fill="#fff"/>
+  </g>
+</svg>
