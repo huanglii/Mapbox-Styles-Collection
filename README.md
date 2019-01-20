@@ -22,7 +22,7 @@ A Collection of Styles for Mapbox.
 Map style suitable for print design
 适合用于印刷品设计的地图样式
 
-## [Lonely Planet]()
+## [Lonely Planet](https://api.mapbox.com/styles/v1/andyzang-salz/cjr4m2tw12aj82rt8b16z5fo9.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5keXphbmctc2FseiIsImEiOiJjamNmMTFnY3YweTdnMzNyd3N0dmJvN3BmIn0.IjY9YwmRWtL8axbT4AzQRg#14/37.7853/-122.39633)
 Imitating the map style in the travel brochure "Lonely Planet"  
 模仿旅行手册《孤独星球》中的地图样式
 
