@@ -38,7 +38,7 @@ All POI points are randomly selected, please use other reliable data sets
 Suitable for backgrounds as prints such as posters  
 适用于作为海报等印刷品的背景  
 
-Blue tone road and water  
+Blue sytle's road and water  
 蓝色调的道路及水系  
 
 ![Poster Blue](./thumbnails/Print_workshop(AndyZang)/2_Print_workshop-Poster_Blue.png)
